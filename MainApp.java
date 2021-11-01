@@ -19,13 +19,13 @@ public class MainApp {
 		int c = 15 ;
 		// So sánh 
 		System.out.println(c > a);
-        System.out.println(c > b);
-        System.out.println(c < a);
-        System.out.println(c < b);
-        System.out.println(c <= a);
-        System.out.println(c <= b);
-        System.out.println(c >= a);
-        System.out.println(c >= b);
+        	System.out.println(c > b);
+        	System.out.println(c < a);
+        	System.out.println(c < b);
+        	System.out.println(c <= a);
+        	System.out.println(c <= b);
+        	System.out.println(c >= a);
+        	System.out.println(c >= b);
 		
 	
 		
